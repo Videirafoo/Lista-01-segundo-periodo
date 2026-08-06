@@ -6,13 +6,13 @@ Trabalho de algoritmos utilizando Python.
 
 Praticar:
 
-- 1 entrada e saída de dados;
-- 2 variáveis;
-- 3 operações matemáticas;
-- 4 estruturas condicionais;
-- 5 estruturas de repetição;
-- 6 listas;
-- 7 funções.
+-  entrada e saída de dados;
+-  variáveis;
+-  operações matemáticas;
+-  estruturas condicionais;
+-  estruturas de repetição;
+-  listas;
+-  funções.
 
 ## Exercícios
 
