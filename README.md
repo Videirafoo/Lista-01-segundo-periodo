@@ -1,20 +1,20 @@
-# Exercícios de Algoritmos em Python
+# Lista 01 — Fundamentos de Algoritmos em Python
 
-Repositório acadêmico desenvolvido para praticar fundamentos de **Algoritmos e Lógica de Programação** com Python.
+Repositório acadêmico com **10 exercícios de revisão inicial de Algoritmos e Lógica de Programação** em Python.
 
-## Conteúdo
+**Nível:** iniciante  
+**Objetivo:** praticar fundamentos antes de avançar para estruturas de dados e problemas maiores.
 
-Os exercícios trabalham conceitos como:
+## O que você vai praticar
 
 - entrada e saída de dados;
 - variáveis e tipos;
 - operações matemáticas;
-- estruturas condicionais;
+- condicionais;
 - estruturas de repetição;
 - listas;
 - funções;
-- maior e menor valor;
-- soma e média.
+- maior, menor, soma e média.
 
 ## Exercícios
 
@@ -29,37 +29,41 @@ Os exercícios trabalham conceitos como:
 9. Função que retorna o maior entre dois números.
 10. Maior e menor entre cinco números.
 
-## Estrutura
-
-Cada exercício possui seu próprio arquivo e o `main.py` organiza a execução do conjunto.
-
-```text
-exercicio1.py
-exercicio2.py
-...
-exercicio10.py
-main.py
-```
-
 ## Como executar
 
 ```bash
 python main.py
 ```
 
-Ou execute um exercício específico:
+Ou um exercício individual:
 
 ```bash
 python exercicio1.py
 ```
 
+## Como estudar este repositório
+
+1. leia o problema antes de abrir a solução;
+2. tente escrever sua própria versão;
+3. compare com o arquivo correspondente;
+4. altere entradas e teste casos diferentes;
+5. explique com suas palavras por que a solução funciona.
+
+## Próximo passo
+
+Depois desta lista, avance para [Lista-02-segundo-periodo](https://github.com/Videirafoo/Lista-02-segundo-periodo), que trabalha listas e manipulação de dados com mais profundidade.
+
+## Qualidade
+
+O repositório possui validação automática de sintaxe com GitHub Actions.
+
 ## Tecnologias
 
-- Python 3
-- Visual Studio Code
-- Git e GitHub
+`Python 3` · `Visual Studio Code` · `Git` · `GitHub Actions`
 
 ## Autor
 
 **Fernando Otávio Videira Junior**  
 Engenharia de Software — Universidade de Vassouras, Campus Saquarema
+
+> Conteúdo organizado para estudo e evolução de quem está começando em programação.
